@@ -13,5 +13,6 @@
 * **Existing Notebook Instance:** [https://mybinder.org/v2/gh/AdamErck/python/master?filepath=%2Fdemo](https://mybinder.org/v2/gh/AdamErck/python/master?filepath=%2Fdemo)
 * **Create New Notebook:** [https://mybinder.org/](https://mybinder.org/)
     * _GitHub repo or URL:_ `AdamErck/python`  
+    * _Path to a notebook file:_ `/demo`
     ![MyBinder.org](mybinder.png)
 * **GitHub repository:** [https://github.com/AdamErck/python](https://github.com/AdamErck/python)

@@ -16,6 +16,6 @@ Open an interactive notebook:
 * Existing Notebook Instance: https://mybinder.org/v2/gh/AdamErck/python/master?filepath=letter-freq.ipynb
 * Create New Notebook: https://mybinder.org/
     * GitHub repo or URL: <kbd>AdamErck/python</kbd>
-    * Path to a notebook file: <kbd>letter-freq.ipynb</kbd>
+    * Path to a notebook file: <kbd>letter-freq.ipynb</kbd>   
     ![MyBinder.org](mybinder.png)
 * GitHub repository: https://github.com/AdamErck/python

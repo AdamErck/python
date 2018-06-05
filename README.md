@@ -1,7 +1,8 @@
 # Content
 
 ### Letter Frequency Analysis   
-### Open an interactive notebook: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/AdamErck/python/master?filepath=letter-freq.ipynb)
+### Open an interactive notebook:   
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/AdamErck/python/master?filepath=letter-freq.ipynb)
 
 <br>
 <hr>
